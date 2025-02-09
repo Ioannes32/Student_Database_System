@@ -61,5 +61,5 @@ This project is licensed under the MIT License. Feel free to use and modify it.
 ## Author
 
 **Ioannes Bach**  
-A bored computer science/IT student that's passionate about solving real-world problems with programming even though he's lazy.
+A bored computer science/IT student that's passionate about solving real-world problems with programming even though I'm lazy.
 
